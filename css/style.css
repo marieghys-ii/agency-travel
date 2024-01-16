@@ -5,6 +5,7 @@
 }
 
 body {
+    width: 100vw;
     font-weight: normal;
     font-style: normal;
     font-size: 15px;
@@ -55,7 +56,7 @@ header div nav ul li a{
 }
 
 .tourisme-image {
-    width: 1500px;
+    width: 100%;
     height: auto;
     display: block; 
 }
